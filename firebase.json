@@ -1,0 +1,6 @@
+{
+  "apphosting": {
+    "backendId": "fahtestwei",
+    "localBuild": true
+  }
+}
